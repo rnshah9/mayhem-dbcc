@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-dbcc
+project: dbcc
 target: dbcc
 
 cmds:
-  - cmd: /dbcc/dbcc @@
+  - cmd: /dbcc/dbcc /test.dbc
     filepath: /test.dbc
