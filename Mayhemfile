@@ -2,5 +2,4 @@ project: dbcc
 target: dbcc
 
 cmds:
-  - cmd: /dbcc/dbcc /test.dbc
-    filepath: /test.dbc
+  - cmd: /dbcc @@
